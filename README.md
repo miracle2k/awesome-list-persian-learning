@@ -36,7 +36,7 @@ A curated list of awesome resources to learn the Persian language (sometimes ref
 
 * [Persian Language Online](https://www.persianlanguageonline.com/)
 * [PersianPod101](https://www.persianpod101.com/)
-* [ Chai and Conversation](https://www.chaiandconversation.com/)
+* [Chai and Conversation](https://www.chaiandconversation.com/) - A thoughtfully put together audio course
 
 
 ## Other
@@ -46,10 +46,12 @@ A curated list of awesome resources to learn the Persian language (sometimes ref
 
 ## Dictionaries
 
-* [Wiktionary](https://en.wiktionary.org/wiki/Category:Persian_lemmas)
+* [Wiktionary](https://en.wiktionary.org/wiki/Category:Persian_lemmas) - Has a fairly large number of Farsi words.
 * [Langenscheidt German/Persian](https://de.langenscheidt.com/persisch-deutsch/)
 
 
 ## Communities
+
+* [Reddit: r/farsi](https://www.reddit.com/r/farsi/) - Fairly active and friendly group on reddit
 
 
